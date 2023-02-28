@@ -1,7 +1,7 @@
 Hi, I'm Filippo Corti
 =====================================================================================================================================
 
-🎓  Digital Communication Student in Milan
+🎓 'Computer Science for New Media Communications' Student in Milan
 
 ### 
 
