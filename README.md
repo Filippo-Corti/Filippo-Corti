@@ -1,4 +1,4 @@
-Hi, I'm Filippo Corti
+I'm Filippo Corti
 =====================================================================================================================================
 
 🎓 'Computer Science for New Media Communications' Student in Milan
