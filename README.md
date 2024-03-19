@@ -1,4 +1,4 @@
 Filippo Corti
 =====================================================================================================================================
 
-🎓 Computer Science Student in Milan
+🎓 Computer Science student in Milan
